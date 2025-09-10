@@ -8,6 +8,7 @@ int main()
 
     cout << "Hello, Git Version 2!" << endl;
     cout << "This is a feature branch change!" << endl;
+    cout << "This is from demo-branch!" << endl;
 
     return 0;
 }
